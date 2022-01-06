@@ -9,3 +9,10 @@
 4 source devel/setup.bash
 5 echo %ROS_PACKAGE_PATH
 ~~~
+
+## Example rospy 
+
+~~~
+1 chmod +x namefile
+2 rosrun package_robot nodo_publher.py 
+~~~
