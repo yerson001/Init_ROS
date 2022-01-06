@@ -16,3 +16,10 @@
 1 chmod +x namefile
 2 rosrun package_robot nodo_publher.py 
 ~~~
+
+## SEE ALL TOPIC, data type
+
+~~~
+1 rostopic list
+2 rostopic echo /example -n 3
+~~~
