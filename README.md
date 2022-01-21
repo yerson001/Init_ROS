@@ -23,3 +23,8 @@
 1 rostopic list
 2 rostopic echo /example -n 3
 ~~~
+
+## CREATE PKG 
+~~~
+catkin_create_pkg atom_bot rospy std_msgs geometry_msgs sensor_msgs
+~~~
